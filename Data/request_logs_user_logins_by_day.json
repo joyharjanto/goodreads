@@ -1,0 +1,644 @@
+[
+    {
+        "explanation": [
+            "This tracks the dates when  the user used  Goodreads site, Goodreads iOS app, Goodreads Android app."
+        ]
+    },
+    {
+        "login_date": "2021-04-07T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-07T16:59:11.664300",
+        "last_activity_timestamp": "2021-04-07T17:00:42.121900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-09T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-09T18:57:40.794300",
+        "last_activity_timestamp": "2021-04-09T19:00:25.856300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-02-10T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-02-10T21:20:55.915000",
+        "last_activity_timestamp": "2021-02-10T21:20:57.157200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-17T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-17T21:46:00.234700",
+        "last_activity_timestamp": "2021-05-18T00:38:15.101100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-21T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-21T19:31:35.796900",
+        "last_activity_timestamp": "2021-04-21T19:39:17.473300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-09T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-10T02:34:01.752600",
+        "last_activity_timestamp": "2021-06-10T05:17:51.412300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-02-25T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-02-26T04:02:41.600200",
+        "last_activity_timestamp": "2021-02-26T04:03:32.699900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-04T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-04T20:13:56.478200",
+        "last_activity_timestamp": "2021-06-04T20:14:15.720200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-18T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-19T04:03:27.116000",
+        "last_activity_timestamp": "2021-05-19T04:08:51.452900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-23T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-23T18:51:18.393100",
+        "last_activity_timestamp": "2021-04-23T18:52:02.054100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-01-29T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-01-30T00:33:58.183000",
+        "last_activity_timestamp": "2021-01-30T00:34:06.052400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-24T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-24T16:18:54.003400",
+        "last_activity_timestamp": "2021-05-24T16:18:58.248600",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-16T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-16T13:44:30.817700",
+        "last_activity_timestamp": "2021-06-17T03:38:44.507200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-01T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-02T04:59:40.860700",
+        "last_activity_timestamp": "2021-05-02T05:16:35.100900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-09T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-09T23:21:57.383700",
+        "last_activity_timestamp": "2021-04-09T23:22:06.217700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-09T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-09T22:59:48.966000",
+        "last_activity_timestamp": "2021-06-10T05:42:09.225100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-25T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-26T03:45:48.806700",
+        "last_activity_timestamp": "2021-05-26T03:47:02.791800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-14T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-14T20:10:34.358200",
+        "last_activity_timestamp": "2021-06-15T04:36:53.918600",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-23T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-24T05:43:20.735200",
+        "last_activity_timestamp": "2021-03-24T05:43:20.735200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-29T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-29T18:37:58.778900",
+        "last_activity_timestamp": "2021-03-29T18:42:14.753900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-02T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-02T23:41:10.008000",
+        "last_activity_timestamp": "2021-05-02T23:41:34.827800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-08T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-08T10:04:59.138700",
+        "last_activity_timestamp": "2021-05-08T10:12:03.015500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-18T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-19T04:12:23.382400",
+        "last_activity_timestamp": "2021-04-19T04:13:44.861100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-13T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-13T17:02:04.199700",
+        "last_activity_timestamp": "2021-04-13T23:27:54.408500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-02T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-02T15:05:50.540500",
+        "last_activity_timestamp": "2021-03-02T15:24:34.111100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-22T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-22T23:16:10.983800",
+        "last_activity_timestamp": "2021-05-23T04:23:10.418700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-14T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-14T23:37:18.623500",
+        "last_activity_timestamp": "2021-03-14T23:37:47.844800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-27T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-28T00:12:39.867800",
+        "last_activity_timestamp": "2021-05-28T00:40:41.824000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-31T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-31T14:37:55.772800",
+        "last_activity_timestamp": "2021-03-31T22:29:54.633800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-25T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-25T21:01:43.880100",
+        "last_activity_timestamp": "2021-03-26T02:53:26.586100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-26T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-26T23:57:08.427800",
+        "last_activity_timestamp": "2021-04-26T23:57:27.110300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-07T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-08T02:44:11.097600",
+        "last_activity_timestamp": "2021-06-08T06:00:05.380900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-22T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-23T05:30:03.438500",
+        "last_activity_timestamp": "2021-04-23T05:30:18.570700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-21T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-21T22:56:30.838100",
+        "last_activity_timestamp": "2021-03-21T23:56:27.190800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-06T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-07T04:18:23.083400",
+        "last_activity_timestamp": "2021-06-07T04:19:21.807000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-14T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-14T20:10:29.966800",
+        "last_activity_timestamp": "2021-06-15T03:21:46.542400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-19T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-19T20:02:33.520600",
+        "last_activity_timestamp": "2021-05-20T05:09:43.380900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-13T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-13T23:17:17.061400",
+        "last_activity_timestamp": "2021-06-14T06:00:22.850500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-01-26T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-01-26T15:06:00.994000",
+        "last_activity_timestamp": "2021-01-27T04:13:00.591300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-30T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-30T16:37:45.842500",
+        "last_activity_timestamp": "2021-03-30T16:41:00.457500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-28T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-28T17:40:59.384300",
+        "last_activity_timestamp": "2021-04-29T03:47:16.492100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-04T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-05T00:01:40.199500",
+        "last_activity_timestamp": "2021-05-05T06:38:50.329900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-03T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-04T03:37:26.316800",
+        "last_activity_timestamp": "2021-05-04T03:41:21.485400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-02T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-02T22:09:25.910000",
+        "last_activity_timestamp": "2021-06-02T22:09:42.687800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-28T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-28T17:49:23.524200",
+        "last_activity_timestamp": "2021-04-28T17:49:28.819900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-09T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-10T05:35:47.492400",
+        "last_activity_timestamp": "2021-05-10T05:37:07.759400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-17T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-17T12:49:34.872800",
+        "last_activity_timestamp": "2021-05-17T12:49:51.881100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-10T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-10T18:59:27.911700",
+        "last_activity_timestamp": "2021-06-11T06:35:12.858600",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-20T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-20T20:24:10.657600",
+        "last_activity_timestamp": "2021-04-21T05:59:36.382000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-23T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-24T02:21:17.260800",
+        "last_activity_timestamp": "2021-05-24T02:22:31.829800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-12T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-13T01:34:30.920200",
+        "last_activity_timestamp": "2021-05-13T01:34:53.116000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-30T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-31T04:19:22.644100",
+        "last_activity_timestamp": "2021-05-31T04:19:24.506200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-13T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-14T06:39:57.700800",
+        "last_activity_timestamp": "2021-04-14T06:47:22.877500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-11T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-11T16:52:31.790300",
+        "last_activity_timestamp": "2021-06-11T16:54:15.911800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-16T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-17T02:24:05.307900",
+        "last_activity_timestamp": "2021-05-17T02:24:58.938100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-02-07T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-02-07T22:08:27.216100",
+        "last_activity_timestamp": "2021-02-07T22:12:19.349000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-27T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-27T08:31:43.893900",
+        "last_activity_timestamp": "2021-04-27T17:09:09.315000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-14T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-14T19:44:12.767600",
+        "last_activity_timestamp": "2021-05-15T02:55:49.253300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-01T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-02T01:22:15.752100",
+        "last_activity_timestamp": "2021-06-02T01:22:34.750800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-05T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-05T17:39:05.695800",
+        "last_activity_timestamp": "2021-05-06T02:53:33.990100",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-26T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-27T03:00:54.067300",
+        "last_activity_timestamp": "2021-05-27T03:01:06.465400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-01-28T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-01-28T20:03:45.781300",
+        "last_activity_timestamp": "2021-01-29T04:48:08.710200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-08T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-08T19:56:36.731500",
+        "last_activity_timestamp": "2021-06-08T19:57:28.725700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-10T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-11T05:35:09.717900",
+        "last_activity_timestamp": "2021-05-11T05:43:53.325300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-07T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-07T16:32:27.884500",
+        "last_activity_timestamp": "2021-06-08T05:28:30.976400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-01T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-01T22:28:28.019900",
+        "last_activity_timestamp": "2021-06-01T22:31:27.753400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-26T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-05-26T17:37:29.308200",
+        "last_activity_timestamp": "2021-05-27T04:45:56.777300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-03T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-04T03:53:10.272900",
+        "last_activity_timestamp": "2021-06-04T03:53:19.489800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-02-09T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-02-09T20:37:34.408300",
+        "last_activity_timestamp": "2021-02-09T21:08:18.491200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-06T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-07T05:52:35.282100",
+        "last_activity_timestamp": "2021-03-07T05:55:36.947900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-10T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-11T01:01:03.000300",
+        "last_activity_timestamp": "2021-06-11T01:04:01.790000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-10T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-11T06:41:24.761200",
+        "last_activity_timestamp": "2021-04-11T06:42:00.471400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-04T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-05T04:15:14.770800",
+        "last_activity_timestamp": "2021-06-05T04:15:18.207000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-15T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-15T20:59:05.905500",
+        "last_activity_timestamp": "2021-06-15T21:54:05.235900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-08T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-08T19:52:28.833900",
+        "last_activity_timestamp": "2021-04-08T22:29:28.230500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-29T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-29T22:49:06.844700",
+        "last_activity_timestamp": "2021-04-29T22:54:13.008000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-10T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-10T18:11:27.156900",
+        "last_activity_timestamp": "2021-03-10T18:13:13.292000",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-19T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-20T01:38:19.228300",
+        "last_activity_timestamp": "2021-04-20T01:38:23.213600",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-03-07T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-03-07T20:09:34.034000",
+        "last_activity_timestamp": "2021-03-07T20:09:37.663700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-13T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-06-13T15:47:59.686100",
+        "last_activity_timestamp": "2021-06-14T04:14:56.816400",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-01-25T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-01-25T16:48:08.136400",
+        "last_activity_timestamp": "2021-01-26T04:08:17.203200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-08T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-08T22:20:04.004800",
+        "last_activity_timestamp": "2021-06-09T02:14:13.571800",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-08T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-09T05:18:42.973300",
+        "last_activity_timestamp": "2021-04-09T05:57:52.817300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-06-15T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-06-16T04:09:29.934000",
+        "last_activity_timestamp": "2021-06-16T04:10:23.652900",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-26T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-26T23:40:03.412500",
+        "last_activity_timestamp": "2021-04-26T23:41:16.274600",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-29T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-29T15:47:43.482500",
+        "last_activity_timestamp": "2021-05-30T02:28:33.676300",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-18T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-18T16:03:33.583300",
+        "last_activity_timestamp": "2021-04-19T04:14:51.064200",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-02-18T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-02-18T22:55:54.236300",
+        "last_activity_timestamp": "2021-02-18T22:56:50.336500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-15T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-04-15T21:32:49.582200",
+        "last_activity_timestamp": "2021-04-15T21:32:53.059700",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-04-15T08:00:00",
+        "platform": "GR iOS App",
+        "first_activity_timestamp": "2021-04-15T15:45:42.867300",
+        "last_activity_timestamp": "2021-04-16T04:02:28.350500",
+        "user_name": "Joy Harjanto"
+    },
+    {
+        "login_date": "2021-05-30T08:00:00",
+        "platform": "Desktop",
+        "first_activity_timestamp": "2021-05-30T22:35:05.473100",
+        "last_activity_timestamp": "2021-05-30T22:35:19.117400",
+        "user_name": "Joy Harjanto"
+    }
+]

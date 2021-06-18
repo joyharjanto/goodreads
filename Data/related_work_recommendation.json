@@ -1,0 +1,2664 @@
+[
+  {
+    "explanation": [
+      "Book recommendations you have received based upon a specific book your have read"
+    ]
+  },
+  {
+    "updated_at": "2021-03-30 15:38:17 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "I Would Leave Me If I Could",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  },
+  {
+    "updated_at": "2021-04-18 15:07:42 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Tools of Titans",
+    "status": "active",
+    "because_you_read": [
+      "Principles: Life and Work"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "MONEY Master the Game: 7 Simple Steps to Financial Freedom",
+    "status": "active",
+    "because_you_read": [
+      "Principles: Life and Work"
+    ]
+  },
+  {
+    "updated_at": "2021-03-30 15:38:17 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Edgar Allan Poe: Cuentos completos y las aventuras de Arthur Gordon Pym",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Memoirs of Sherlock Holmes"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Baby Proof",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 16:03:57 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Βάκχαι",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Tragedy, the Greeks, and Us"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Dear Edward",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls",
+      "The Rosie Project",
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-04-07 15:59:43 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Father Forgive Us, for We Know Not What We Do",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Lie With Statistics"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "No One Is Too Small to Make a Difference",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-03-31 21:28:30 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Gadis Kretek",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Cantik itu Luka"
+    ]
+  },
+  {
+    "updated_at": "2021-04-07 15:59:43 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Crash!: Uma Breve História da Economia: Da Grécia Antiga ao Século XXI",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Lie With Statistics"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Smile",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-04-07 15:59:43 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Bioinformatics: The Machine Learning Approach",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Book of Why: The New Science of Cause and Effect"
+    ]
+  },
+  {
+    "updated_at": "2021-04-07 15:59:43 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Something Borrowed",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Kitchen God's Wife",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How Not to Be Wrong: The Power of Mathematical Thinking"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Hotel on the Corner of Bitter and Sweet",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls",
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Good Economics for Hard Times",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How Not to Be Wrong: The Power of Mathematical Thinking"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Joy Luck Club",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-18 15:08:15 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Blink: The Power of Thinking Without Thinking",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Thinking, Fast and Slow",
+      "How to Win Friends and Influence People"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Superforecasting: The Art and Science of Prediction",
+    "status": "active",
+    "because_you_read": [
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Bonesetter's Daughter",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls"
+    ]
+  },
+  {
+    "updated_at": "2021-04-07 15:59:43 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Статистика и котики",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Lie With Statistics"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Becoming",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "The Last Lecture",
+      "Born a Crime: Stories from a South African Childhood",
+      "Little Fires Everywhere",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "21 Lessons for the 21st Century",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Bossypants",
+    "status": "active",
+    "because_you_read": [
+      "The Last Lecture",
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-04-18 15:07:42 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Lagi Probation: Menikmati Perjalanan Mencari Kerja",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "You Do You: Discovering Live Through Experiments and Self-Awareness"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "ההיסטוריה של המחר",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Wrong End of the Table",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Night of the Rat",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Africa's Child (Dancing Soul Trilogy, #1)",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "قصة الحضارة: نشأة الحضارة",
+    "status": "active",
+    "because_you_read": [
+      "Principles: Life and Work"
+    ]
+  },
+  {
+    "updated_at": "2021-04-08 18:53:41 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Blue Carbuncle (Classics For Kids: Sherlock Holmes #1)",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Memoirs of Sherlock Holmes"
+    ]
+  },
+  {
+    "updated_at": "2021-04-08 18:53:41 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Mysterious Affair at Styles",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Memoirs of Sherlock Holmes"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Adoption Stories: Excerpts from Adoption Books for Adults",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls",
+      "Minor Feelings: An Asian American Reckoning"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Graeme C. Simsion's The Rosie Effect - For Fans (Trivia-On-Books)",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Rosie Project"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Rich Dad, Poor Dad",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "En man som heter Ove",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Rosie Project",
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Think and Grow Rich",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Lean Startup‎",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Win Friends and Influence People",
+      "Anything You Want",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Midnight Library",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Bell Jar",
+      "The Rosie Project",
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-04-18 15:08:15 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Thinking, Fast and Slow",
+      "How to Win Friends and Influence People"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 16:03:57 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Originals: How Non-Conformists Move the World",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Grit: Passion, Perseverance, and the Science of Success"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 16:03:57 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Roommate",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Tiger Mom's Tale",
+      "Dial A for Aunties"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "騎士団長殺し―第1部　顕れるイデア編 [Kishidancho Goroshi 1]",
+    "status": "active",
+    "because_you_read": [
+      "Eat a Peach",
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-04-18 15:07:42 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "How to Do Nothing",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Eat a Peach",
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "Eat a Peach",
+      "The Last Lecture",
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 16:03:54 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Rapijali 1: Mencari",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "You Do You: Discovering Live Through Experiments and Self-Awareness"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Diviners",
+    "status": "active",
+    "because_you_read": [
+      "Eat a Peach"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 01:38:52 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Nightingale",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Die Verwandlung",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-05-06 00:45:45 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Lolita",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 01:38:52 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Book Thief",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Nesnesitelná lehkost bytí",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-05-06 00:45:45 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Girl, Interrupted ",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Mother May I",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Good Company"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 01:38:52 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Help",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "人間失格 [Ningen Shikkaku]",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]"
+    ]
+  },
+  {
+    "updated_at": "2021-05-06 00:45:45 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Picture of Dorian Gray",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Where the Grass Is Green and the Girls Are Pretty",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart",
+      "Good Company"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 01:38:52 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "L’Étranger",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-23 17:52:24 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Catcher in the Rye",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Hitchhiker's Guide to the Galaxy",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Sinful Lives of Trophy Wives",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Good Company"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 01:38:52 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Kite Runner ",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]",
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Cien años de soledad",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "海辺のカフカ [Umibe no Kafuka]",
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-04-13 21:19:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Folk med ångest",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Shanghai Girls",
+      "The Rosie Project",
+      "All the Light We Cannot See"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Where the Crawdads Sing",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood",
+      "Little Fires Everywhere"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Adoption Stories: Excerpts from Adoption Books for Adults",
+    "status": "active",
+    "because_you_read": [
+      "The Last Lecture",
+      "Little Fires Everywhere"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Eleanor Oliphant is Completely Fine",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood",
+      "Little Fires Everywhere"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Such a Fun Age",
+    "status": "active",
+    "because_you_read": [
+      "Born a Crime: Stories from a South African Childhood",
+      "Little Fires Everywhere",
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Vanishing Half",
+    "status": "active",
+    "because_you_read": [
+      "Eat a Peach",
+      "Born a Crime: Stories from a South African Childhood",
+      "Little Fires Everywhere",
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It",
+      "Think Again",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-05-10 04:36:22 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Color and Light: A Guide for the Realist Painter",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
+    ]
+  },
+  {
+    "updated_at": "2021-05-22 22:16:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Make Time: How to Focus on What Matters Every Day",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Anything You Want",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Practice: Shipping Creative Work",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It",
+      "Think Again"
+    ]
+  },
+  {
+    "updated_at": "2021-05-10 04:36:22 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "An Illustrated Life: Drawing Inspiration from the Private Sketchbooks of Artists, Illustrators and Designers",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
+    ]
+  },
+  {
+    "updated_at": "2021-05-22 22:16:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Anything You Want",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "When the Stars Go Dark",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart",
+      "Good Company"
+    ]
+  },
+  {
+    "updated_at": "2021-05-08 09:05:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Psychology of Money",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing",
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered",
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+      "Anything You Want",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-05-10 04:36:22 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Leonardo's Notebooks",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Do the Work",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing",
+      "Anything You Want",
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "That Summer",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Good Company"
+    ]
+  },
+  {
+    "updated_at": "2021-04-21 18:33:02 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Art of Performance",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing",
+      "Anything You Want",
+      "Range: Why Generalists Triumph in a Specialized World"
+    ]
+  },
+  {
+    "updated_at": "2021-05-10 04:36:22 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "What Are You Looking At?: 150 Years of Modern Art in a Nutshell",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-05-08 09:05:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Sleeping Giants",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing"
+    ]
+  },
+  {
+    "updated_at": "2021-05-10 04:36:22 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "HTML5 for Web Designers",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered",
+      "Anything You Want"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:38:03 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help",
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+      "7 Basic Habits of Highly Effective People",
+      "The Power of Habit",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-04-20 19:24:55 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Power of Positive Thinking",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Win Friends and Influence People",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:38:03 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": " Influence: How and Why People Agree to Things",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Where the Forest Meets the Stars",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-04-23 17:52:24 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Think Again",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing",
+      "7 Basic Habits of Highly Effective People",
+      "Range: Why Generalists Triumph in a Specialized World",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Let's Make Ramen!: A Comic Book Cookbook",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-04-23 17:52:24 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Range: Why Generalists Triumph in a Specialized World",
+      "7 Basic Habits of Highly Effective People"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "American Predator: The Hunt for the Most Meticulous Serial Killer of the 21st Century",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Book Love",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Warren Buffett Way: Investment Strategies of the World's Greatest Investor",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel "
+    ]
+  },
+  {
+    "updated_at": "2021-04-23 17:52:24 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Anything You Want",
+      "Range: Why Generalists Triumph in a Specialized World"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Southern Lady Code",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Snowball: Warren Buffett and the Business of Life",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel "
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "No Rules Rules",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Measure What Matters",
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Who Moved My Cheese?",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business"
+    ]
+  },
+  {
+    "updated_at": "2021-05-19 19:03:06 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Oligarchy",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Interior Chinatown"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Dune",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "updated_at": "2021-05-19 19:03:06 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Bug Boys",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Interior Chinatown"
+    ]
+  },
+  {
+    "updated_at": "2021-05-19 19:03:06 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "What We Talk About When We Talk About Books: The History and Future of Reading",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Interior Chinatown"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Quantum Roots (Quantum Roots, #1)",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "updated_at": "2021-05-08 09:05:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Keep Going: 10 Ways to Stay Creative in Good Times and Bad",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing",
+      "Anything You Want"
+    ]
+  },
+  {
+    "updated_at": "2021-05-08 09:05:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Great Influenza: The Epic Story of the Deadliest Plague in History",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Hell Yeah or No: what's worth doing"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Personal MBA: Master the Art of Business",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+      "7 Basic Habits of Highly Effective People",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Time Is Irreverent",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Secret",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "7 Basic Habits of Highly Effective People",
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel ",
+      "The Power of Habit"
+    ]
+  },
+  {
+    "updated_at": "2021-05-19 19:03:06 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Scythe",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Interior Chinatown"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 16:50:09 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Bob's Saucer Repair (Bob and Nikki, #1)",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Strength In Our Scars",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "101 Essays That Will Change The Way You Think"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Seeds Planted in Concrete",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "101 Essays That Will Change The Way You Think"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "A Gentle Reminder",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "101 Essays That Will Change The Way You Think"
+    ]
+  },
+  {
+    "updated_at": "2021-05-06 00:45:45 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Secret History",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Bell Jar"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Gotta Get Theroux This: My Life and Strange Times in Television",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "101 Essays That Will Change The Way You Think"
+    ]
+  },
+  {
+    "updated_at": "2021-05-20 04:07:01 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Gwendy’s Button Box",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "101 Essays That Will Change The Way You Think"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "From Blood and Ash",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-06-02 21:09:49 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Insecure in Love: How Anxious Attachment Can Make You Feel Jealous, Needy, and Worried and What You Can Do About It",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help"
+    ]
+  },
+  {
+    "updated_at": "2021-06-02 21:09:49 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Wired for Love",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help"
+    ]
+  },
+  {
+    "updated_at": "2021-06-02 21:09:49 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help"
+    ]
+  },
+  {
+    "updated_at": "2021-06-02 21:09:49 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Avoidant: How to Love (or Leave) a Dismissive Partner",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help"
+    ]
+  },
+  {
+    "updated_at": "2021-06-04 19:14:18 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The No Complaining Rule: Positive Ways to Deal with Negativity at Work",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Don't Go Back to School: A Handbook for Learning Anything"
+    ]
+  },
+  {
+    "updated_at": "2021-06-04 19:14:18 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Victory Lab: The Secret Science of Winning Campaigns",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Don't Go Back to School: A Handbook for Learning Anything"
+    ]
+  },
+  {
+    "updated_at": "2021-06-04 19:14:18 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Shopping for Votes: How Politicians Choose Us and We Choose Them",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Don't Go Back to School: A Handbook for Learning Anything"
+    ]
+  },
+  {
+    "updated_at": "2021-06-04 19:14:18 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Digital Minds: 12 Things Every Business Needs to Know about Digital Marketing",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Don't Go Back to School: A Handbook for Learning Anything"
+    ]
+  },
+  {
+    "updated_at": "2021-06-02 21:09:49 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "How to Not Die Alone",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Attached: The New Science of Adult Attachment And How It Can Help"
+    ]
+  },
+  {
+    "updated_at": "2021-06-08 01:05:34 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Measure What Matters",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-08 01:05:34 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Obstacle Is the Way: The Timeless Art of Turning Adversity to Advantage",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-08 01:05:34 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Essentialism: The Disciplined Pursuit of Less",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-08 01:05:34 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Peak: Secrets From The New Science of Expertise",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 02:46:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Coraline",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Zen Wisdom for the Anxious: Simple Advice from a Zen Buddhist Monk"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 02:46:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "In Love & Pajamas: A Collection of Comics about Being Yourself Together",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Zen Wisdom for the Anxious: Simple Advice from a Zen Buddhist Monk"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Never Split the Difference",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 02:46:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Intimations",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love",
+      "Zen Wisdom for the Anxious: Simple Advice from a Zen Buddhist Monk"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 03:08:31 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Conversations with Friends",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 03:08:31 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Women Don't Owe You Pretty",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 03:08:31 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "How to Fail: Everything I’ve Ever Learned From Things Going Wrong",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 03:08:31 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "This Is Going to Hurt: Secret Diaries of a Junior Doctor",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 03:08:31 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Normal People",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Everything I Know About Love"
+    ]
+  },
+  {
+    "updated_at": "2021-05-26 02:46:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Light for the World to See",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Zen Wisdom for the Anxious: Simple Advice from a Zen Buddhist Monk"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "No Filter: The Inside Story of Instagram",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Їж, пий, худни: здоров'я без дієт",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history"
+    ]
+  },
+  {
+    "updated_at": "2021-06-01 21:29:14 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "I'm Thinking of Ending Things",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crying in H Mart"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Raven Boys",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Resist Amazon and Why"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Pearl",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Resist Amazon and Why"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Resist Amazon and Why"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals About Death",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "How to Resist Amazon and Why"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Five Dysfunctions of a Team",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Strengths Finder 2.0",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The One Minute Manager",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-06-13 14:50:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Superintelligence: Paths, Dangers, Strategies",
+    "status": "active",
+    "because_you_read": [
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-13 14:50:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Code: The Hidden Language of Computer Hardware and Software",
+    "status": "active",
+    "because_you_read": [
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-13 14:50:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "High Output Management",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Signal and the Noise: Why So Many Predictions Fail - But Some Don't",
+    "status": "active",
+    "because_you_read": [
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-13 14:50:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Inspired: How To Create Products Customers Love",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Hegemony or Survival",
+    "status": "active",
+    "because_you_read": [
+      "Manufacturing Consent: The Political Economy of the Mass Media"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Ὀδύσσεια ",
+    "status": "active",
+    "because_you_read": [
+      "The Tragedy of Macbeth"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Understanding Power: The Indispensable Chomsky",
+    "status": "active",
+    "because_you_read": [
+      "Manufacturing Consent: The Political Economy of the Mass Media"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Of Mice and Men ",
+    "status": "active",
+    "because_you_read": [
+      "The Tragedy of Macbeth"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Failed States: The Abuse of Power and the Assault on Democracy",
+    "status": "active",
+    "because_you_read": [
+      "Manufacturing Consent: The Political Economy of the Mass Media"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "An Inspector Calls",
+    "status": "active",
+    "because_you_read": [
+      "The Tragedy of Macbeth"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "La Conquête du Pain",
+    "status": "active",
+    "because_you_read": [
+      "Manufacturing Consent: The Political Economy of the Mass Media"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "A Christmas Carol ",
+    "status": "active",
+    "because_you_read": [
+      "The Tragedy of Macbeth"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Shock Doctrine: The Rise of Disaster Capitalism",
+    "status": "active",
+    "because_you_read": [
+      "Manufacturing Consent: The Political Economy of the Mass Media"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Bezonomics: How Amazon Is Changing Our Lives and What the World's Best Companies Are Learning from It",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "TO PIXAR AND BEYOND. My unlikely journey with Steve Jobs to make entertainment history"
+    ]
+  },
+  {
+    "updated_at": "2021-06-08 01:05:34 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results ",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High",
+      "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love"
+    ]
+  },
+  {
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "First, Break All the Rules: What the World's Greatest Managers Do Differently ",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "Crucial Conversations: Tools for Talking When Stakes are High"
+    ]
+  },
+  {
+    "updated_at": "2021-06-13 14:50:21 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Hard Thing About Hard Things",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Measure What Matters",
+      "Think Again",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Frankenstein; or, The Modern Prometheus",
+    "status": "active",
+    "because_you_read": [
+      "The Tragedy of Macbeth"
+    ]
+  },
+  {
+    "updated_at": "2021-06-04 19:14:18 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "How to Use the Internet to Win in 2016: A Comprehensive Guide to Online Politics for Campaigns & Advocates",
+    "status": "marked for deletion",
+    "because_you_read": [
+      "Don't Go Back to School: A Handbook for Learning Anything"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Thick: And Other Essays",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Presence: Bringing Your Boldest Self to Your Biggest Challenges ",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Brit(ish): On Race, Identity and Belonging",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Cork Dork: A Wine-Fueled Adventure Among the Obsessive Sommeliers, Big Bottle Hunters, and Rogue Scientists Who Taught Me to Live for Taste",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "How to Speak Machine: Computational Thinking for the Rest of Us",
+    "status": "active",
+    "because_you_read": [
+      "The Unfair Advantage: How You Already Have What It Takes to Succeed",
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Profit First: A Simple System To Transform Any Business From A Cash-Eating Monster To A Money-Making Machine",
+    "status": "active",
+    "because_you_read": [
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Shut Up and Listen!: Hard Business Truths that Will Help You Succeed",
+    "status": "active",
+    "because_you_read": [
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Grinding It Out: The Making of McDonald's",
+    "status": "active",
+    "because_you_read": [
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy World",
+    "status": "active",
+    "because_you_read": [
+      "The E-Myth Enterprise: How to Turn A Great Idea Into a Thriving Business",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Elements of Style",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Writing Tools: 50 Essential Strategies for Every Writer",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Bird by Bird: Some Instructions on Writing and Life",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "On Writing",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Writing Down the Bones: Freeing the Writer Within",
+    "status": "active",
+    "because_you_read": [
+      "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Where the Crawdads Sing",
+    "status": "active",
+    "because_you_read": [
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Shoe Dog: A Memoir by the Creator of Nike",
+    "status": "active",
+    "because_you_read": [
+      "Think Again",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Story Grid: What Good Editors Know",
+    "status": "active",
+    "because_you_read": [
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Becoming",
+    "status": "active",
+    "because_you_read": [
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+    "status": "active",
+    "because_you_read": [
+      "Think Again",
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Glass Castle",
+    "status": "active",
+    "because_you_read": [
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "John Adams",
+    "status": "active",
+    "because_you_read": [
+      "Think Again",
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Eleanor Oliphant is Completely Fine",
+    "status": "active",
+    "because_you_read": [
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Gene: An Intimate History",
+    "status": "active",
+    "because_you_read": [
+      "Think Again",
+      "Algorithms to Live By: The Computer Science of Human Decisions"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Vanishing Half",
+    "status": "active",
+    "because_you_read": [
+      "Educated"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "The Power of the Actor",
+    "status": "active",
+    "because_you_read": [
+      "Think Again"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Running Down a Dream: Your Road Map to Winning Creative Battles",
+    "status": "active",
+    "because_you_read": [
+      "Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "You Mean I'm Not Lazy, Stupid or Crazy?! : A Self-help Book for Adults with Attention Deficit Disorder",
+    "status": "active",
+    "because_you_read": [
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Taking Charge of Adult ADHD",
+    "status": "active",
+    "because_you_read": [
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Faster Than Normal: Turbocharge Your Focus, Productivity, and Success with the Secrets of the ADHD Brain",
+    "status": "active",
+    "because_you_read": [
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "Women with Attention Deficit Disorder: Embrace Your Differences and Transform Your Life",
+    "status": "active",
+    "because_you_read": [
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-14 04:59:39 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "to-read",
+    "book": "A Radical Guide for Women with ADHD: Embrace Neurodiversity, Live Boldly, and Break Through Barriers",
+    "status": "active",
+    "because_you_read": [
+      "Driven To Distraction : Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Rich Dad, Poor Dad",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "The Last Lecture",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Never Split the Difference",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "82년생 김지영",
+    "status": "active",
+    "because_you_read": [
+      "Eat a Peach",
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Rest Is Noise Series: Apparition from the Woods: The Loneliness of Jean Sibelius",
+    "status": "active",
+    "because_you_read": [
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": " קיצור תולדות האנושות‎, [Ḳitsur toldot ha-enoshut]",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "What a Time to Be Alone",
+    "status": "active",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Tuesdays with Morrie",
+    "status": "active",
+    "because_you_read": [
+      "The Last Lecture"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Deep Work. Rules for Focused Success in a Distracted World",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "The Last Lecture",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Think and Grow Rich",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "センセイの鞄",
+    "status": "active",
+    "because_you_read": [
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "This Is Your Brain on Music: The Science of a Human Obsession",
+    "status": "active",
+    "because_you_read": [
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Milk and Honey",
+    "status": "active",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Five People You Meet in Heaven",
+    "status": "active",
+    "because_you_read": [
+      "The Last Lecture"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "How to Win Friends and Influence People",
+      "The Last Lecture",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Lean Startup‎",
+    "status": "active",
+    "because_you_read": [
+      "How to Win Friends and Influence People",
+      "Principles: Life and Work",
+      "Factfulness",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "コーヒーが冷めないうちに",
+    "status": "active",
+    "because_you_read": [
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Musicophilia: Tales of Music and the Brain",
+    "status": "active",
+    "because_you_read": [
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Strength In Our Scars",
+    "status": "active",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "When Breath Becomes Air",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "The Last Lecture",
+      "Born a Crime: Stories from a South African Childhood"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "status": "active",
+    "because_you_read": [
+      "Principles: Life and Work",
+      "Factfulness",
+      "How to Win Friends and Influence People",
+      "The Last Lecture",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "The Last Lecture",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "夏物語",
+    "status": "active",
+    "because_you_read": [
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Chronicles: Volume One",
+    "status": "active",
+    "because_you_read": [
+      "Just Kids"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Home Body",
+    "status": "active",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Have a Little Faith: A True Story",
+    "status": "active",
+    "because_you_read": [
+      "The Last Lecture"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Talking to Strangers: What We Should Know About the People We Don’t Know",
+    "status": "active",
+    "because_you_read": [
+      "Factfulness",
+      "Principles: Life and Work",
+      "How to Win Friends and Influence People",
+      "Born a Crime: Stories from a South African Childhood",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Strange Planet",
+    "status": "active",
+    "because_you_read": [
+      "Eat a Peach"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "status": "active",
+    "because_you_read": [
+      "Principles: Life and Work",
+      "Factfulness",
+      "How to Win Friends and Influence People",
+      "Atomic Habits"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "キッチン [Kitchin]",
+    "status": "active",
+    "because_you_read": [
+      "コンビニ人間 [Konbini ningen]"
+    ]
+  },
+  {
+    "updated_at": "2021-06-17 22:16:35 UTC",
+    "user": "Joy Harjanto",
+    "shelf": "2021",
+    "book": "Emily Fox-Seton",
+    "status": "active",
+    "because_you_read": [
+      "Everything You’ll Ever Need: You Can Find Within Yourself"
+    ]
+  }
+]

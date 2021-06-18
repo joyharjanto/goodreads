@@ -1,0 +1,106 @@
+[
+  {
+    "explanation": [
+      "Updates you will see on your newsfeed from actions you have taken"
+    ]
+  },
+  {
+    "created_at": "2021-06-10 04:17:33 UTC",
+    "updated_at": "2021-06-10 04:17:33 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Nobody Wants to Read Your Sh*t: Why That Is And What You Can Do About It",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-10 04:17:46 UTC",
+    "updated_at": "2021-06-10 04:17:46 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Think Again: The Power of Knowing What You Don't Know",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-10 18:08:36 UTC",
+    "updated_at": "2021-06-10 18:08:36 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Educated",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-13 14:50:14 UTC",
+    "updated_at": "2021-06-13 14:50:14 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Dial A for Aunties",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-13 15:04:18 UTC",
+    "updated_at": "2021-06-13 15:04:18 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-13 22:18:07 UTC",
+    "updated_at": "2021-06-13 22:18:07 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Joy Harjanto's review of Dial A for Aunties",
+    "subject_type": "Review",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-14 04:48:49 UTC",
+    "updated_at": "2021-06-14 04:48:49 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Joy Harjanto's review of Chemistry",
+    "subject_type": "Review",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-14 04:59:30 UTC",
+    "updated_at": "2021-06-14 04:59:30 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book How to Win Friends and Influence People",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-14 05:00:08 UTC",
+    "updated_at": "2021-06-14 05:00:08 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Do Nothing: How to Break Away from Overworking, Overdoing, and Underliving",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-14 05:00:14 UTC",
+    "updated_at": "2021-06-14 05:00:14 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book How to Do Nothing: Resisting the Attention Economy",
+    "subject_type": "ReadStatus",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  },
+  {
+    "created_at": "2021-06-15 03:33:57 UTC",
+    "updated_at": "2021-06-15 03:33:57 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Joy Harjanto's review of How to Win Friends and Influence People",
+    "subject_type": "Review",
+    "link_url": "(not provided)",
+    "image_url": "(not provided)"
+  }
+]

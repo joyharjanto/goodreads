@@ -1,0 +1,15 @@
+[
+  {
+    "explanation": [
+      "Genres you have marked as your favorite"
+    ]
+  },
+  {
+    "created_at": "2021-01-25 16:48:44 UTC",
+    "updated_at": "2021-01-25 16:49:11 UTC",
+    "user": "Joy Harjanto",
+    "genres": "Biography,Fiction,Self help",
+    "additional_genres": "Nonfiction",
+    "genres_automatically_determined": "Yes"
+  }
+]

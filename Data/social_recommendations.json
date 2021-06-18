@@ -1,0 +1,357 @@
+[
+  {
+    "explanation": [
+      "Record of books recommended to you based on the book(s) your friends have read."
+    ]
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+    "book_average_rating": 3.95,
+    "latest_activity_at": "2021-01-29 06:47:33 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Moment of Lift: How Empowering Women Changes the World",
+    "book_average_rating": 4.31,
+    "latest_activity_at": "2021-01-04 22:09:30 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Happiness: The Crooked Little Road to Semi-Ever After",
+    "book_average_rating": 4.14,
+    "latest_activity_at": "2021-03-17 16:13:54 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System from Crisis — and Themselves",
+    "book_average_rating": 4.13,
+    "latest_activity_at": "2021-01-04 22:12:08 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Eat the Buddha: Life and Death in a Tibetan Town",
+    "book_average_rating": 4.12,
+    "latest_activity_at": "2021-04-03 00:58:12 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "A Little Life",
+    "book_average_rating": 4.31,
+    "latest_activity_at": "2021-03-26 00:03:36 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Thursday Murder Club (Thursday Murder Club, #1)",
+    "book_average_rating": 4.0,
+    "latest_activity_at": "2021-03-25 15:53:00 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Us Against You (Beartown, #2)",
+    "book_average_rating": 4.34,
+    "latest_activity_at": "2021-06-05 09:14:16 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+    "book_average_rating": 4.4,
+    "latest_activity_at": "2021-05-20 17:25:29 UTC",
+    "friends_who_read_the_book_count": 4
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+    "book_average_rating": 4.1,
+    "latest_activity_at": "2021-03-09 00:44:19 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Norwegian Wood",
+    "book_average_rating": 4.03,
+    "latest_activity_at": "2021-05-17 15:46:24 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Rich People Problems (Crazy Rich Asians, #3)",
+    "book_average_rating": 3.93,
+    "latest_activity_at": "2020-12-11 17:11:23 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Popularity Illusion: Why status is toxic but likeability wins all",
+    "book_average_rating": 3.98,
+    "latest_activity_at": "2021-06-11 16:55:07 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",
+    "book_average_rating": 4.37,
+    "latest_activity_at": "2021-05-24 05:19:17 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Joy Luck Club",
+    "book_average_rating": 3.94,
+    "latest_activity_at": "2021-05-28 17:33:39 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Made to Stick: Why Some Ideas Survive and Others Die",
+    "book_average_rating": 3.96,
+    "latest_activity_at": "2021-03-26 16:59:43 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Eleanor Oliphant Is Completely Fine",
+    "book_average_rating": 4.27,
+    "latest_activity_at": "2021-03-17 16:22:33 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "book_average_rating": 4.39,
+    "latest_activity_at": "2021-01-04 22:11:53 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Kite Runner",
+    "book_average_rating": 4.31,
+    "latest_activity_at": "2021-01-29 05:46:22 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
+    "book_average_rating": 4.1,
+    "latest_activity_at": "2021-02-18 16:32:29 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World",
+    "book_average_rating": 4.56,
+    "latest_activity_at": "2021-05-20 21:15:05 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Beautiful Boy: A Father's Journey Through His Son's Addiction",
+    "book_average_rating": 4.09,
+    "latest_activity_at": "2021-01-11 16:16:04 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Bird by Bird: Some Instructions on Writing and Life",
+    "book_average_rating": 4.22,
+    "latest_activity_at": "2021-05-11 16:15:03 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Seven Husbands of Evelyn Hugo",
+    "book_average_rating": 4.4,
+    "latest_activity_at": "2021-03-17 16:21:34 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Unhoneymooners",
+    "book_average_rating": 3.99,
+    "latest_activity_at": "2021-01-04 22:12:14 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Wind-Up Bird Chronicle",
+    "book_average_rating": 4.15,
+    "latest_activity_at": "2021-06-03 17:40:49 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Who Moved My Cheese?",
+    "book_average_rating": 3.83,
+    "latest_activity_at": "2021-06-06 07:23:46 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "book_average_rating": 4.36,
+    "latest_activity_at": "2021-01-29 05:36:16 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Bridge of Clay",
+    "book_average_rating": 3.8,
+    "latest_activity_at": "2021-06-10 04:56:04 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Mrs. Dalloway",
+    "book_average_rating": 3.79,
+    "latest_activity_at": "2021-04-20 07:52:28 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Awakening Your Ikigai: How the Japanese Wake Up to Joy and Purpose Every Day",
+    "book_average_rating": 3.62,
+    "latest_activity_at": "2021-03-26 16:53:22 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+    "book_average_rating": 4.25,
+    "latest_activity_at": "2021-03-17 16:16:33 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "A Man Called Ove",
+    "book_average_rating": 4.35,
+    "latest_activity_at": "2021-02-13 19:00:58 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Becoming",
+    "book_average_rating": 4.51,
+    "latest_activity_at": "2021-01-29 06:25:45 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Pachinko",
+    "book_average_rating": 4.28,
+    "latest_activity_at": "2021-06-07 19:07:18 UTC",
+    "friends_who_read_the_book_count": 4
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Rising Strong",
+    "book_average_rating": 4.22,
+    "latest_activity_at": "2021-03-14 16:02:53 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Unicorn Project",
+    "book_average_rating": 4.13,
+    "latest_activity_at": "2021-03-15 16:49:59 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Totto-chan: The Little Girl at the Window",
+    "book_average_rating": 4.36,
+    "latest_activity_at": "2021-03-29 16:15:48 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "So You Want to Talk About Race",
+    "book_average_rating": 4.5,
+    "latest_activity_at": "2021-01-29 05:27:09 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "How We Fight For Our Lives",
+    "book_average_rating": 4.28,
+    "latest_activity_at": "2021-06-07 17:27:11 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook",
+    "book_average_rating": 4.56,
+    "latest_activity_at": "2021-05-22 15:40:16 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Obsessed: Building a Brand People Love from Day One",
+    "book_average_rating": 4.13,
+    "latest_activity_at": "2021-02-27 14:00:36 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Midnight Library",
+    "book_average_rating": 4.14,
+    "latest_activity_at": "2021-04-21 21:51:45 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Greenlights",
+    "book_average_rating": 4.24,
+    "latest_activity_at": "2021-02-16 10:29:46 UTC",
+    "friends_who_read_the_book_count": 2
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "City of Girls",
+    "book_average_rating": 4.04,
+    "latest_activity_at": "2021-01-10 06:56:51 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Push",
+    "book_average_rating": 4.16,
+    "latest_activity_at": "2021-04-22 16:24:49 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Anxious People",
+    "book_average_rating": 4.24,
+    "latest_activity_at": "2021-01-04 22:11:59 UTC",
+    "friends_who_read_the_book_count": 3
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Color Purple",
+    "book_average_rating": 4.23,
+    "latest_activity_at": "2021-03-17 16:16:16 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "Your Next Five Moves: Master the Art of Business Strategy",
+    "book_average_rating": 4.28,
+    "latest_activity_at": "2021-03-05 15:10:10 UTC",
+    "friends_who_read_the_book_count": 1
+  },
+  {
+    "user": "Joy Harjanto",
+    "book": "The Original",
+    "book_average_rating": 3.84,
+    "latest_activity_at": "2000-01-01 08:00:00 UTC",
+    "friends_who_read_the_book_count": 0
+  }
+]

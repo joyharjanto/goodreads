@@ -1,0 +1,105 @@
+[
+  {
+    "explanation": [
+      "How you are connected to someone"
+    ]
+  },
+  {
+    "created_at": "2021-01-27 04:06:31 UTC",
+    "updated_at": "2021-01-27 04:12:25 UTC",
+    "source_user": "Belgia Jong",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend, top friend"
+  },
+  {
+    "created_at": "2021-01-27 04:06:31 UTC",
+    "updated_at": "2021-01-27 04:12:25 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Belgia Jong",
+    "relationship": "friend, top friend"
+  },
+  {
+    "created_at": "2021-04-09 04:32:26 UTC",
+    "updated_at": "2021-04-09 04:52:37 UTC",
+    "source_user": "Michelle Ghozali",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-09 04:32:26 UTC",
+    "updated_at": "2021-04-09 04:52:37 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Michelle Ghozali",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-09 04:36:07 UTC",
+    "updated_at": "2021-04-09 04:52:45 UTC",
+    "source_user": "Caitlyn",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-09 04:36:07 UTC",
+    "updated_at": "2021-04-09 04:52:45 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Caitlyn",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-13 22:26:43 UTC",
+    "updated_at": "2021-04-13 22:39:41 UTC",
+    "source_user": "Kandice",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-13 22:26:43 UTC",
+    "updated_at": "2021-04-13 22:39:41 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Kandice",
+    "relationship": "friend"
+  },
+  {
+    "created_at": "2021-04-13 22:27:33 UTC",
+    "updated_at": "2021-04-13 22:27:33 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Ali Abdaal",
+    "relationship": "following"
+  },
+  {
+    "created_at": "2021-04-15 19:06:35 UTC",
+    "updated_at": "2021-04-28 16:46:54 UTC",
+    "source_user": "Akshath Sivaprasad",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend, top friend"
+  },
+  {
+    "created_at": "2021-04-15 19:06:35 UTC",
+    "updated_at": "2021-04-28 16:46:54 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Akshath Sivaprasad",
+    "relationship": "friend, top friend"
+  },
+  {
+    "created_at": "2021-04-28 16:41:14 UTC",
+    "updated_at": "2021-04-28 16:41:14 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Felicia Widjaya",
+    "relationship": "friend request, following"
+  },
+  {
+    "created_at": "2021-05-20 17:14:20 UTC",
+    "updated_at": "2021-05-24 01:21:24 UTC",
+    "source_user": "Joy Harjanto",
+    "target_user": "Jacqueline Danielle",
+    "relationship": "friend, top friend"
+  },
+  {
+    "created_at": "2021-05-20 17:14:20 UTC",
+    "updated_at": "2021-05-24 01:21:24 UTC",
+    "source_user": "Jacqueline Danielle",
+    "target_user": "Joy Harjanto",
+    "relationship": "friend, top friend"
+  }
+]

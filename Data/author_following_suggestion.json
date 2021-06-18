@@ -1,0 +1,67 @@
+[
+  {
+    "explanation": [
+      "Goodreads will occasionally suggest an author for a user to follow. This records which authors have been or will be suggested to the user. This also tracks which suggestions the user has explicitly marked as \"Ignore\" as indicated by the status field."
+    ]
+  },
+  {
+    "created_at": "2021-01-25 17:10:08 UTC",
+    "updated_at": "2021-01-25 17:10:08 UTC",
+    "author": "Henry Manampiring",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-01-29 04:48:24 UTC",
+    "updated_at": "2021-01-29 04:48:24 UTC",
+    "author": "James Clear",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-02-07 22:12:34 UTC",
+    "updated_at": "2021-02-07 22:12:34 UTC",
+    "author": "Adrian Daub",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-02-26 04:03:49 UTC",
+    "updated_at": "2021-02-26 04:03:49 UTC",
+    "author": "Patti Smith",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-04-08 21:27:56 UTC",
+    "updated_at": "2021-04-08 21:27:56 UTC",
+    "author": "David Chang",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-04-13 16:03:31 UTC",
+    "updated_at": "2021-04-13 16:03:31 UTC",
+    "author": "Celeste Ng",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-04-27 07:32:31 UTC",
+    "updated_at": "2021-04-27 07:32:31 UTC",
+    "author": "Graeme Simsion",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-05-10 04:37:13 UTC",
+    "updated_at": "2021-05-10 04:37:13 UTC",
+    "author": "Austin Kleon",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-05-20 04:02:31 UTC",
+    "updated_at": "2021-05-20 04:02:31 UTC",
+    "author": "David Epstein",
+    "status": "Pending"
+  },
+  {
+    "created_at": "2021-06-13 22:18:06 UTC",
+    "updated_at": "2021-06-13 22:18:06 UTC",
+    "author": "Jesse Q. Sutanto",
+    "status": "Pending"
+  }
+]

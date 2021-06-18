@@ -1,0 +1,29 @@
+[
+  {
+    "explanation": [
+      "What you are subscribed to (e.g. can get notifications from) and what your email/notification frequency is for the subscription"
+    ]
+  },
+  {
+    "subject_type": "ReadStatus",
+    "last_emailed_at": "2021-06-01 22:10:28 UTC",
+    "parent_subject_type": "(not provided)",
+    "created_at": "2021-06-01 22:10:27 UTC",
+    "updated_at": "2021-06-01 22:10:28 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "parent_subject": "(not provided)",
+    "frequency": "instant"
+  },
+  {
+    "subject_type": "ReadStatus",
+    "last_emailed_at": "(not provided)",
+    "parent_subject_type": "(not provided)",
+    "created_at": "2021-06-08 01:05:17 UTC",
+    "updated_at": "2021-06-08 01:05:17 UTC",
+    "user": "Joy Harjanto",
+    "subject": "Read status for book Pachinko",
+    "parent_subject": "(not provided)",
+    "frequency": "instant"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "explanation": [
+      "People you are following and people who are following you"
+    ]
+  },
+  {
+    "created_at": "2021-04-13 22:27:33 UTC",
+    "follower": "Joy Harjanto",
+    "user_being_followed": "Joy Harjanto"
+  },
+  {
+    "created_at": "2021-04-28 16:41:14 UTC",
+    "follower": "Joy Harjanto",
+    "user_being_followed": "Joy Harjanto"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "explanation": [
+      "Record of your notifications and notification settings"
+    ]
+  },
+  {
+    "notification_group_items": [
+      {
+        "type": "Like_BookStatusWantToRead",
+        "subject": "Read status for book How to Win Friends and Influence People",
+        "created_at": "2021-04-16T02:02:54.863Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2021-05-20T17:14:24.574Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2021-04-15T19:06:41.392Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "UserFollowing",
+        "subject": "(not provided)",
+        "created_at": "2021-02-02T09:33:30.050Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipAccepted",
+        "subject": "Joy Harjanto",
+        "created_at": "2021-04-09T04:52:46.076Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "Like_BookStatusReading",
+        "subject": "Read status for book The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "created_at": "2021-06-01T22:10:15.901Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "Comment_BookStatusReading",
+        "subject": "Read status for book The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "created_at": "2021-06-01T22:10:28.114Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2021-04-09T04:32:29.914Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipAccepted",
+        "subject": "Joy Harjanto",
+        "created_at": "2021-04-09T04:52:46.127Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "Like_GoodreadsReview",
+        "subject": "Joy Harjanto's review of Principles: Life and Work",
+        "created_at": "2021-03-26T09:30:18.339Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2021-01-27T04:06:39.731Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "FriendshipRequested",
+        "subject": "(not provided)",
+        "created_at": "2021-04-09T04:36:13.140Z",
+        "size": 1,
+        "destination": "kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "UserFollowing",
+        "subject": "(not provided)",
+        "created_at": "2021-04-07T21:38:23.187Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      },
+      {
+        "type": "Like_GoodreadsReview",
+        "subject": "Joy Harjanto's review of How to Win Friends and Influence People",
+        "created_at": "2021-06-16T01:55:10.334Z",
+        "size": 1,
+        "destination": "goodreads-www, kindle",
+        "user": "Joy Harjanto"
+      }
+    ],
+    "notifications_marked_as_read_single_items": "(not provided)",
+    "notification_items": [
+      {
+        "type": "Like_GoodreadsReview",
+        "created_at": "2021-06-16T01:55:06.444Z",
+        "resource": "Liked Joy Harjanto's review of How to Win Friends and Influence People",
+        "activity": "Liked Joy Harjanto's review of How to Win Friends and Influence People",
+        "subject": "Joy Harjanto's review of How to Win Friends and Influence People",
+        "user": "Joy Harjanto"
+      }
+    ],
+    "notification_settings_items": "(not provided)",
+    "notifications_marked_as_read_items": [
+      {
+        "user": "Joy Harjanto",
+        "notification_type_set": "goodreads-www",
+        "created_at": "2021-06-16T03:09:42.359Z"
+      }
+    ]
+  }
+]

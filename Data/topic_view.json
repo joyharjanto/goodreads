@@ -1,0 +1,97 @@
+[
+  {
+    "explanation": [
+      "Information about views of each discussion"
+    ]
+  },
+  {
+    "last_viewed_at": "2021-01-26 15:06:33 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-01-26 15:06:33 UTC",
+    "updated_at": "2021-01-26 15:06:33 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy Harjanto's review of You Do You: Discovering Live Through Experiments and Self-Awareness",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-01-26 19:44:25 UTC",
+    "topic_type": "List",
+    "created_at": "2021-01-26 19:44:25 UTC",
+    "updated_at": "2021-01-26 19:44:25 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "2021 Books by Women of Color",
+    "comments_count": 1
+  },
+  {
+    "last_viewed_at": "2021-03-10 18:11:49 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-03-10 18:11:49 UTC",
+    "updated_at": "2021-03-10 18:11:49 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy Harjanto's review of Everything You’ll Ever Need: You Can Find Within Yourself",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-21 22:55:23 UTC",
+    "topic_type": "UserChallenge",
+    "created_at": "2021-03-21 22:55:23 UTC",
+    "updated_at": "2021-03-21 22:55:23 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy’s challenge",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-03-25 20:02:25 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-03-25 20:02:25 UTC",
+    "updated_at": "2021-03-25 20:02:25 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy Harjanto's review of Principles: Life and Work",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-04-08 21:28:26 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-04-08 21:28:26 UTC",
+    "updated_at": "2021-04-08 21:28:26 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy Harjanto's review of Eat a Peach",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-04-18 15:06:20 UTC",
+    "topic_type": "List",
+    "created_at": "2021-04-18 15:06:20 UTC",
+    "updated_at": "2021-04-18 15:06:20 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Entrepreneurs' Book Club Reading List",
+    "comments_count": 3
+  },
+  {
+    "last_viewed_at": "2021-05-04 02:39:15 UTC",
+    "topic_type": "Review",
+    "created_at": "2021-05-04 02:39:15 UTC",
+    "updated_at": "2021-05-04 02:39:15 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Joy Harjanto's review of Grit: The Power of Passion and Perseverance",
+    "comments_count": 0
+  },
+  {
+    "last_viewed_at": "2021-06-02 00:22:26 UTC",
+    "topic_type": "ReadStatus",
+    "created_at": "2021-06-01 22:10:28 UTC",
+    "updated_at": "2021-06-02 00:22:26 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Read status for book The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "comments_count": 1
+  },
+  {
+    "last_viewed_at": "2021-06-08 01:05:17 UTC",
+    "topic_type": "ReadStatus",
+    "created_at": "2021-06-08 01:05:17 UTC",
+    "updated_at": "2021-06-08 01:05:17 UTC",
+    "user": "Joy Harjanto",
+    "topic_title": "Read status for book Pachinko",
+    "comments_count": 1
+  }
+]
