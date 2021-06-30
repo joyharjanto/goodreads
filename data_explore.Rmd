@@ -1,0 +1,130 @@
+---
+title: "goodreads data"
+output: html_document
+---
+
+```{r}
+library(rvest)
+library(dplyr)
+```
+```{r}
+library(pander)
+library(stringr)
+```
+
+```{r}
+title <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".title a") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                })
+
+author <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".author") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                }) 
+
+avg_rating <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".avg_rating") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                }) 
+
+my_rating <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".rating") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                }) 
+
+
+end_read_date <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".date_read_value") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                }) 
+
+start_read_date <- lapply(paste0('https://www.goodreads.com/review/list/129094336-joy-harjanto?shelf=2021'),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(".date_added") %>% 
+                    html_text() %>%
+                    gsub('[\r\n\t]', '', .)
+                  
+                }) 
+
+
+```
+
+```{r}
+title <- unlist(title)
+title <- str_trim(title, side = c("left"))
+title <- str_squish(title)
+```
+```{r}
+author <- unlist(author)
+author <- author[-1]
+author <- str_remove(author,"author")
+author <- str_remove(author,"\\*")
+author <- str_trim(author, side=c("both"))
+```
+
+```{r}
+avg_rating
+avg_rating <- unlist(avg_rating)
+avg_rating <- avg_rating[-1]
+avg_rating <- str_remove(avg_rating,"avg rating")
+avg_rating <- str_trim(avg_rating,side=c("left"))
+```
+
+```{r}
+my_rating <- unlist(my_rating)
+my_rating <- my_rating[-1]
+my_rating <- str_remove(my_rating,"Joy's rating")
+my_rating <- str_trim(my_rating,side=c("left"))
+my_rating[my_rating == "really liked it"] <- 4
+my_rating[my_rating == "it was amazing"] <- 5
+my_rating[my_rating == "liked it"] <- 3 
+my_rating[my_rating == "it was ok"] <- 2
+my_rating <- as.numeric(my_rating)
+```
+
+```{r}
+end_read_date <- unlist(end_read_date)
+```
+```{r}
+end_read_date
+```
+```{r}
+start_read_date <- unlist(start_read_date)
+start_read_date <- start_read_date[-1]
+```
+
+```{r}
+start_read_date <- str_remove(start_read_date,"date added")
+start_read_date <- str_trim(start_read_date,side=c("left"))
+```
+```{r}
+goodreads <- data.frame(title,author,avg_rating,my_rating,start_read_date,end_read_date)
+```
+
+```{r}
+write.csv(goodreads,"goodreads.csv")
+```
+
+
